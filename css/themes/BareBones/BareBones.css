@@ -168,7 +168,7 @@ a.ui-link-inherit {
 /* Active class used as the "on" state across all themes
 -----------------------------------------------------------------------------------------------------------*/
 .ui-btn-active { /* WHAT HAPPENS WHEN YOU CLICK THE BUTTON */
-	border: 1px solid #9b1717 /*{global-active-border}*/;
+	border: 1px solid #ffffff /*{global-active-border}*/;
 	background: #ffcc00 /*{global-active-background-color}*/;
 	font-weight: bold;
 	color: #ffffff /*{global-active-color}*/;
